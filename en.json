@@ -1,1 +1,10 @@
-{}
+{
+    "language": {
+      "en_US": "English (US)",
+      "tr_TR": "Turkish"
+    },
+    "globals": {
+      "nothere": "You can't do that!"
+    }
+  }
+  
