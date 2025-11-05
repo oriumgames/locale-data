@@ -1,9 +1,9 @@
 {
   "language": {
-    "en_US": "İngilizce (ABD)",
-    "tr_TR": "Türkçe"
+    "en_US": "Anglais (États-Unis)",
+    "tr_TR": "Turc"
   },
   "globals": {
-    "nothere": "Bunu yapamazsın!"
+    "nothere": "Tu ne peux pas faire ça !"
   }
 }
