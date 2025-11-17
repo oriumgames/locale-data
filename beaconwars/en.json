@@ -17,7 +17,6 @@
     "time-left": "§eTime left: §a%s",
     "next-upgrade": "%s: §a%s"
   },
-
   "game": {
     "already-started": "§cGame is started",
     "preparing": "§eArena is preparing...",
@@ -44,13 +43,11 @@
     "over": "§l§7Game over! %s team §7won the game!",
     "over-no-winner": "§l§fGame over! There is no winner."
   },
-
   "player": {
     "in-team": "§7You are in %s team",
     "break-block": "§cYou can only break blocks placed in game",
     "respawning": "§eRespawning in"
   },
-
   "beacon": {
     "break-own": "§cYou can't break your own beacon",
     "break-teammate": "§cYou can't break your teammates' beacons",
@@ -88,14 +85,12 @@
       "exit-button": "Exit"
     }
   },
-
   "announce": {
     "beacon-destroyed": "%s§e's a beacon got destroyed by %s",
     "player-eliminated": "%s §7has eliminated!",
     "team-eliminated": "%s team §7has eliminated!",
     "generator-upgrade": "%s §egenerators have been upgraded to Level %s"
   },
-
   "death": {
     "killed": "%s §7is killed by %s",
     "killed-bow": "%s §7is shot by %s",
@@ -103,18 +98,15 @@
     "sent-void-bow": "%s §7is sent to void with an arrow by %s",
     "fell-void": "%s §7fell into void"
   },
-
   "team-upgrades": {
     "forge": "%s §7upgraded forge to Level %s",
     "sharpness": "%s §7upgraded sharpness to Level %s",
     "protection": "%s §7upgraded protection to Level %s",
     "efficiency": "%s §7upgraded efficiency to Level %s"
   },
-
   "team-inform": {
     "beacon-placed": "%s §7has placed a new §bBeacon§7!"
   },
-
   "shop": {
     "title": "Shop",
     "description": "Select a category",
@@ -196,27 +188,22 @@
       }
     }
   },
-
   "text": {
     "forge": "%s Forge\nLevel %s"
   },
-
   "leave-item": "§eLeave game",
-
   "materials": {
     "iron": "Iron",
     "gold": "Gold",
     "emerald": "Emerald",
     "diamond": "Diamond"
   },
-
   "materials-short": {
     "iron": "i",
     "gold": "g",
     "emerald": "e",
     "diamond": "d"
   },
-
   "teams": {
     "red": "Red",
     "blue": "Blue",
