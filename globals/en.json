@@ -1,11 +1,9 @@
 {
     "welcome": "§bWelcome to the server!",
-  
     "scoreboard": {
       "title": "< OriumGames >",
       "online": "§aOnline: §b%d§7/§b%d"
     },
-  
     "player": {
       "ban": "§cYou are banned for %s\n§cReason: §f%s",
       "banned": "§cYou are banned\nTime remaining: §f%s\n§cReason: §f%s",
@@ -13,7 +11,6 @@
       "muted": "",
       "muted-info": "You are muted for %s"
     },
-  
     "time": {
       "year": {
         "one": "%d year",
@@ -44,7 +41,6 @@
         "more": "%d seconds"
       }
     },
-  
     "time-short": {
       "year": "%dy",
       "month": "%dm",
@@ -62,4 +58,3 @@
       "second-shorter": "%ds"
     }
 }
-  
