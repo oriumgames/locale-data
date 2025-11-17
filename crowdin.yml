@@ -1,5 +1,4 @@
-preserve_hierarchy: true
-
+preserve_hierarchy: 1
 files:
-  - source: /locale-data/**/tr.json
-    translation: /locale-data/**/%two_letters_code%.json
+  - source: /**/tr.json
+    translation: /**/%two_letters_code%.json
