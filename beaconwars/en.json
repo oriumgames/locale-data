@@ -1,0 +1,213 @@
+{
+  "scoreboard": {
+    "title": "§a[-- §l§bBeacon§cWars §r§a--]",
+    "mode": "§7Mod: §a%s",
+    "players": "§7Oyuncular: §a%d§7/§a%d",
+    "waiting": {
+      "one": "§7Bekleniyor: §a%d §eoyuncu",
+      "more": "§7Bekleniyor: §a%d §eoyuncu"
+    },
+    "starting": "§7Başlıyor: §a%s",
+    "teams": "§7- Takımlar -",
+    "beacon": "§7- Fener -",
+    "game": "§7- Oyun -",
+    "active-beacons": "§7Aktif: §a%d",
+    "can-place": "§7Koyulablr: §aevet",
+    "cant-place": "§7Koyulablr: §e%ds",
+    "time-left": "§eKalan süre: §a%s",
+    "next-upgrade": "%s: §a%s"
+  },
+  "game": {
+    "already-started": "§cOyun zaten başladı",
+    "preparing": "§eOyun hazırlanıyor...",
+    "full": "§cOyun dolu",
+    "already-in-game": "§cHata: Zaten oyundasın",
+    "arena-not-found": "§cHata: Arena bulunamadı",
+    "no-available-arena": "§cMüsait oyun bulunamadı",
+    "leave-successful": "§aBaşarıyla oyundan ayrıldınız",
+    "joined": "§7[§a%d§7/§a%d§7] §e%s §7oyuna katıldı",
+    "left": "§7[§a%d§7/§a%d§7] §e%s §6oyundan ayrıldı",
+    "needed": {
+      "one": "§eBaşlamak için §b%d §eoyuncu daha gerekli",
+      "more": "§eBaşlamak için §b%d §eoyuncu daha gerekli"
+    },
+    "starting": {
+      "one": "§aOyun %s §asaniye içinde başlıyor",
+      "more": "§aOyun %s §asaniye içinde başlıyor"
+    },
+    "ending": {
+      "one": "§eOyun %s §esaniye içinde bitiyor",
+      "more": "§eOyun %s §esaniye içinde bitiyor"
+    },
+    "started": "§aOyun başladı",
+    "over": "§l§7Oyun bitti! %s takım §7kazandı!",
+    "over-no-winner": "§l§fOyun bitti! Kazanan yok."
+  },
+  "player": {
+    "in-team": "%s takımdasın",
+    "break-block": "§cSadece oyun sırasında koyulan blokları kırabilirsin",
+    "respawning": "§eYeniden doğuyorsun"
+  },
+  "beacon": {
+    "break-own": "§cKendi fenerini kıramazsın",
+    "break-teammate": "§cTakım arkadaşlarının fenerlerini kıramazsın",
+    "in-fight": "§cSavaşırken fener koyamazsın",
+    "limit": "§cFener koyma sınırına ulaştın",
+    "cooldown": {
+      "one": "§b%d §esaniye sonra fener yerleştirebileceksin",
+      "more": "§b%d §esaniye sonra fener yerleştirebileceksin"
+    },
+    "destroyed": "§eFenerlerinden biri %s §etarafından kırıldı",
+    "placed-last": "§eSon fenerini yerleştirdin",
+    "placed-info": {
+      "one": "§aFener yerleştirildi. §b%d §afener daha koyabilirsin",
+      "more": "§aFener yerleştirildi. §b%d §afener daha koyabilirsin"
+    },
+    "cooldown-info": {
+      "one": "§eSonraki fener §b%d §esaniye sonra koyulabilir",
+      "more": "§eSonraki fener §b%d §esaniye sonra koyulabilir"
+    },
+    "left": {
+      "none": "§cFenerin kalmadı",
+      "one": "§eBir fenerin kaldı",
+      "more": "§b%d §afenerin var"
+    },
+    "gone": "§ePuf! Fenerlerinden biri kayboldu.",
+    "can-place": "§aArtık fener koyabilirsin",
+    "menu": {
+      "main-title": "Fenerini Yönet",
+      "main-description": "Umarım onları pataklıyorsundur!\nHadi, bir işlem seç",
+      "upgrade-button": "Seviyeyi Yükselt\nMevcut seviye: §b%d",
+      "upgrade-title": "Fenerini Yükselt",
+      "upgrade-description": "....",
+      "upgrade-not_enough": "§cFenerini yükseltmek için yeterli kaynağın yok!§r\n\n§fGereken: §b%d §f%s",
+      "back-button": "< Geri",
+      "exit-button": "Çık"
+    }
+  },
+  "announce": {
+    "beacon-destroyed": "%s§e'nin bir feneri %s §etarafından kırıldı",
+    "player-eliminated": "%s §7elendi!",
+    "team-eliminated": "%s takım §7elendi!",
+    "generator-upgrade": "%s §ejeneratörleri %s. seviyeye yükseltildi"
+  },
+  "death": {
+    "killed": "%s§7, %s §7tarafından dövüldü",
+    "killed-bow": "%s§7, %s §7tarafından ok ile vuruldu",
+    "sent-void": "%s§7, %s §7tarafından boşluğa atıldı",
+    "sent-void-bow": "%s§7, %s §7tarafından ok ile vurularak boşluğa atıldı",
+    "fell-void": "%s §7boşluğa atladı"
+  },
+  "team-upgrades": {
+    "forge": "§7Fırın, %s tarafından %s. seviyeye yükseltildi",
+    "sharpness": "§7Keskinlik, %s tarafından %s. seviyeye yükseltildi",
+    "protection": "§7Koruma, %s tarafından %s. seviyeye yükseltildi",
+    "efficiency": "§7Verimlilik, %s tarafından %s. seviyeye yükseltildi"
+  },
+  "team-inform": {
+    "beacon-placed": "%s §7yeni bir §bFener §7yerleştirdi!"
+  },
+  "shop": {
+    "title": "Market",
+    "description": "Bir kategori seçin",
+    "already-has-armor": "§cBu zırha zaten sahipsin",
+    "has-better-armor": "§cBu zırhtan daha iyi zırhın var",
+    "out-of-stock": "§ctükendi",
+    "out-of-stock-message": "§cBu eşya tükendi",
+    "left": "%d kaldı",
+    "bought": "§b%s§r §asatın alındı",
+    "needed": "§cYetersiz kaynak. İhtiyacın olanlar: %s",
+    "inventory-full": "§cEnvanterin biraz dolu gibi. Sence?",
+    "categories": {
+      "resources_description": "§fToplamda: %d §fdemir,§r§7 %d §6altın,§r§7 %d §belmas§r§7 ve %d §azümrütün§r§7 var",
+      "blocks": {
+        "title": "Bloklar",
+        "entries": {
+          "wool": "Yün",
+          "block-pack": "Blok Paketi"
+        }
+      },
+      "swords": {
+        "title": "Kılıçlar",
+        "entries": {
+          "stone-sword": "Taş Kılıç",
+          "iron-sword": "Demir Kılıç",
+          "diamond-sword": "Elmas Kılıç"
+        }
+      },
+      "tools": {
+        "title": "Aletler",
+        "entries": {
+          "shears": "Makas",
+          "stone-pickaxe": "Taş Kazma",
+          "iron-pickaxe": "Demir Kazma",
+          "diamond-pickaxe": "Elmas Kazma"
+        }
+      },
+      "projectiles": {
+        "title": "Menzili",
+        "entries": {
+          "bow": "Yay",
+          "arrow": "Ok"
+        }
+      },
+      "armors": {
+        "title": "Zırhlar",
+        "entries": {
+          "chainmail-set": "Zincir Set",
+          "iron-set": "Demir Set",
+          "diamond-set": "Elmas Set"
+        }
+      },
+      "foods": {
+        "title": "Yiyecekler",
+        "entries": {
+          "steak": "Biftek",
+          "apple": "Elma",
+          "bread": "Ekmek",
+          "mega-food-pack": {
+            "title": "§2Büyük Yemek Paketi",
+            "info": "§bYemek paketinin tadını çıkar!",
+            "out-of-stock": "§eYemek paketi stokları tükeniyor!"
+          },
+          "large-food-pack": {
+            "title": "§6Biraz Büyük Yemek Paketi",
+            "out-of-stock": "§6Bu sonuncu Biraz Büyük Yemek Paketiydi!"
+          },
+          "mini-food-pack": {
+            "title": "§4Hiç De Büyük Olmayan Yemek Paketi",
+            "out-of-stock": "§cO sonuncu paketti!"
+          }
+        }
+      },
+      "special": {
+        "title": "Özel",
+        "entries": {
+          "respawn-beacon": "Yeniden Doğma Feneri"
+        }
+      }
+    }
+  },
+  "text": {
+    "forge": "%s Takım Fırını\n%s. Seviye"
+  },
+  "leave-item": "§eOyundan Ayrıl",
+  "materials": {
+    "iron": "Demir",
+    "gold": "Altın",
+    "emerald": "Zümrüt",
+    "diamond": "Elmas"
+  },
+  "materials-short": {
+    "iron": "d",
+    "gold": "a",
+    "emerald": "z",
+    "diamond": "e"
+  },
+  "teams": {
+    "red": "Kırmızı",
+    "blue": "Mavi",
+    "yellow": "Sarı",
+    "green": "Yeşil"
+  }
+}
