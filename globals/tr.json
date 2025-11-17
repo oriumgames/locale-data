@@ -1,0 +1,65 @@
+{
+    "welcome": "§bSunucuya hoş geldin!",
+  
+    "scoreboard": {
+      "title": "< OriumGames >",
+      "online": "§aÇevrimiçi: §b%d§7/§b%d"
+    },
+  
+    "player": {
+      "ban": "§cSunucudan yasaklandınız%s\n§cSebep: §f%s",
+      "banned": "§cSunucudan yasaklısınız\nKalan süre: §f%s\n§cSebep: §f%s",
+      "ban-permanent": "§cSunucudan kalıcı olarak yasaklısınız\nSebep: §f%s",
+      "muted": "",
+      "muted-info": "%s için susturuldunuz"
+    },
+  
+    "time": {
+      "year": {
+        "one": "%d yıl",
+        "more": "%d yıl"
+      },
+      "month": {
+        "one": "%d ay",
+        "more": "%d ay"
+      },
+      "week": {
+        "one": "%d hafta",
+        "more": "%d hafta"
+      },
+      "day": {
+        "one": "%d gün",
+        "more": "%d gün"
+      },
+      "hour": {
+        "one": "%d saat",
+        "more": "%d saat"
+      },
+      "minute": {
+        "one": "%d dakika",
+        "more": "%d dakika"
+      },
+      "second": {
+        "one": "%d saniye",
+        "more": "%d saniye"
+      }
+    },
+  
+    "time-short": {
+      "year": "%dy",
+      "month": "%da",
+      "week": "%dh",
+      "day": "%dg",
+      "hour": "%dsa",
+      "minute": {
+        "one": "%ddk",
+        "more": "%ddk"
+      },
+      "second": {
+        "one": "%d sn",
+        "more": "%d sn"
+      },
+      "second-shorter": "%ds"
+    }
+}
+  

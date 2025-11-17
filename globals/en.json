@@ -1,0 +1,65 @@
+{
+    "welcome": "§bWelcome to the server!",
+  
+    "scoreboard": {
+      "title": "< OriumGames >",
+      "online": "§aOnline: §b%d§7/§b%d"
+    },
+  
+    "player": {
+      "ban": "§cYou are banned for %s\n§cReason: §f%s",
+      "banned": "§cYou are banned\nTime remaining: §f%s\n§cReason: §f%s",
+      "ban-permanent": "§cYou are permanently banned\nReason: §f%s",
+      "muted": "",
+      "muted-info": "You are muted for %s"
+    },
+  
+    "time": {
+      "year": {
+        "one": "%d year",
+        "more": "%d years"
+      },
+      "month": {
+        "one": "%d month",
+        "more": "%d months"
+      },
+      "week": {
+        "one": "%d week",
+        "more": "%d weeks"
+      },
+      "day": {
+        "one": "%d day",
+        "more": "%d days"
+      },
+      "hour": {
+        "one": "%d hour",
+        "more": "%d hours"
+      },
+      "minute": {
+        "one": "%d minute",
+        "more": "%d minutes"
+      },
+      "second": {
+        "one": "%d second",
+        "more": "%d seconds"
+      }
+    },
+  
+    "time-short": {
+      "year": "%dy",
+      "month": "%dm",
+      "week": "%dw",
+      "day": "%dd",
+      "hour": "%dh",
+      "minute": {
+        "one": "%dmin",
+        "more": "%dmins"
+      },
+      "second": {
+        "one": "%d sec",
+        "more": "%d secs"
+      },
+      "second-shorter": "%ds"
+    }
+}
+  
